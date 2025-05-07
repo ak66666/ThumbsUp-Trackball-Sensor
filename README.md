@@ -1,4 +1,5 @@
 # PMW3360 breakout board
+
 # A clone of https://github.com/jfedor2/pmw3360-breakout
 
 Changes inlclude:
