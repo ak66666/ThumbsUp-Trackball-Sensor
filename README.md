@@ -11,7 +11,7 @@ This repository contains PCB design files for a breakout board for the PMW3360 o
 
 The board doesn't do any level shifting so it only works with 3.3V logic.
 
-The dimensions of the board are //TODO  and the mounting holes are for M2 screws.
+The dimensions of the board are 40mm x 15mm, the mounting holes are for M2 screws.
 
 The files in the [fabrication](fabrication) folder can be used to order this board from JLCPCB with SMT assembly. 
 The board you get includes everything except the actual sensor. 
