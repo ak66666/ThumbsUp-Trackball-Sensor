@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X, Mid Y,Rotation,Layer
+C1,0.1u,C_0603_1608Metric,148.775,-108.9,180,top
+C2,1u,C_0603_1608Metric,148.775,-103.6,180,top
+C3,4.7u,C_0603_1608Metric,148.775,-110.45,180,top
+R1,39,R_0603_1608Metric,148.775,-102.05,0,top
+R2,10k,R_0603_1608Metric,148.8,-100.2,0,top
+U2,TCR2EF19,SOT-23-5,148.355,-106.25,0,top
